@@ -1,0 +1,30 @@
+#container{
+    margin: auto;
+    width: 50%;
+   
+   
+}
+
+h1{
+    text-align: center;
+    color: white;
+    
+}
+
+body{
+    background-color: black;
+}
+
+
+.board{
+    height: 500px;
+    width:500px; 
+    display:grid;
+    
+}
+
+.buttons{
+    display:flex;
+    gap: 15px;
+    margin-top: 15px;
+}
